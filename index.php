@@ -91,7 +91,23 @@
             posteriormente. A árvore é um conceito muito mais fácil de lidar,
             uma vez que é usada em várias outros tipos de casos como Banco de
             dados e pasta de arquivos dentro de outras pastas.</p>
-        <p id="arvore-code">exemplo em codigo</p>
+        <p id="arvore-code">Exemplo:</p>
+
+        <img src="../trabalho-php/images/arvorecode.png" id="pilha-code" alt="Imagem mostrando um exemplo de árvore em php">
+
+<p>Resutado no navegador: 27, 23, 21, 15, 9, 6, 3, 1, <br>adicionado "br", o exemplo fica 
+com os itens agrupados um em baixo do outro. </p>
+
+<p>O exemplo acima mostra uma árvore do tipo SplMaxHeap, que executa o maior arquivo do tipo 
+    int como raiz mãe, e os subsequentes como seus galhos. Caso a árvore fosse do tipo SplMinHeap,
+    o processo seria ao contrário, com a raiz mãe sendo o menor número presente.
+</p>
+
+<img src="../trabalho-php/images/arvorecode2.png" id="pilha-code" alt="Imagem mostrando um exemplo de árvore em php">
+
+<p>Adicionando mais itens a árvore, os itens já são automaticamente alocados em suas devidas posições.</p>
+
+<p>Resutado com novos itens: 300, 230, 27, 23, 21, 15, 9, 6, 3, 1</p>
 
     </article>
 
@@ -131,9 +147,9 @@
     <ul class="ulfooter">
         <li>Integrantes do Grupo:</li>
         <li>Allysson Ernandes Gomes de Oliveira RA:2650832113020</li>
-        <li>Ana Clara</li>
-        <li>Júlio Teixeira</li>
-        <li>Nayara Jessica</li>
+        <li>Ana Clara Furtonato dos Santos RA:2650832113017</li>
+        <li>Júlio Gabriel Teixeira dos Santos RA:2650832113028 </li>
+        <li>Nayara Jéssica Nunes RA:2650832113014</li>
     </ul>
 
     <h5><a href="index.php#topo">Voltar ao Topo</a></h5>
