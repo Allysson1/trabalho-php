@@ -18,7 +18,7 @@
     <!-- conteúdo principal -->
     <article>
 
-        <!-- estrutura de dados -->
+        <!-- estrutura de Dados -->
         <h1 id="ced">Estrutura de dados</h1>
         <p id="conceito-dados"> O conceito de estrutura de dados é um estudo dentro da
             área da programação, onde o principal objetivo é apresentar
