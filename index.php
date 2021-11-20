@@ -10,7 +10,7 @@
 <body>
 
     <header id="topo">
-        <img class="imgele" src="../trabalho-php/images/php.png" alt="esta imagem tem um exemplo de lista em php">
+        <img class="imgele" src="../trabalho-php/images/phpele.png" alt="esta imagem tem o simbolo do php- o elefante">
         <h1 class="h1header">PHP</h1>
     </header>
 
@@ -43,7 +43,7 @@
         </p>
         <p id="lista-code">exemplo 1:</p>
 
-        <img src="../trabalho-php/images/listacode.png" alt="esta imagem tem um exemplo de lista em php">
+        <img src="../trabalho-php/images/listacodeex.png" alt="esta imagem tem um exemplo de lista em php">
 
         <p>O exemplo acima mostra uma construção simples de uma lista</p>
 
@@ -52,7 +52,7 @@
 
         <p id="lista-code">exemplo 2:</p>
 
-        <img src="../trabalho-php/images/listacode1.png" alt="esta imagem tem um exemplo incluir itens na lista em php">
+        <img src="../trabalho-php/images/listacodeex1.png" alt="esta imagem tem um exemplo incluir itens na lista em php">
 
         <p>O exemplo acima mostra como incluir itens em uma lista</p>
 
@@ -60,13 +60,13 @@
 
         <p id="lista-code">exemplo 3:</p>
 
-        <img src="../trabalho-php/images/listacode2.png" alt="esta imagem tem um exemplo excluir itens da lista em php">
+        <img src="../trabalho-php/images/listacodeex2.png" alt="esta imagem tem um exemplo excluir itens da lista em php">
 
         <p>O exemplo acima mostra como excluir itens de uma lista (será excluído o primeiro item da lista).</p>
 
         <p>Resultado no navegador: " Este grupo foi modificado e agora é formado por: Allysson , Ana , Júlio e Nayara. "</p>
 
-        <img src="../trabalho-php/images/listacode3.png" alt="esta imagem mostra todos os itens da lista em php">
+        <img src="../trabalho-php/images/listacodeex3.png" alt="esta imagem mostra todos os itens da lista em php">
 
         <p>O exemplo acima mostra todos os itens da lista e sua classificação na lista.</p>
 
