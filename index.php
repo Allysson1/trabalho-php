@@ -40,8 +40,13 @@
             lista de compras que você irá fazer no mercado. Com a lista em
             php é possível adicionar limites aos itens que nela serão colocados.
         </p>
-        <p id="lista-code">exemplo em codigo</p>
+        <p id="lista-code">exemplo:</p>
 
+        <img src="../trabalho-php/images/listacode.png" alt="esta imagem tem um exemplo de lista em php">
+
+        <p>O exemplo acima mostra uma consstrução simples de uma lista</p>
+
+        <p>Resultado no navegador: " Este grupo é formado por Allysson , Ana , Júlio e Nayara "</p>
 
 
         <!-- fila -->
